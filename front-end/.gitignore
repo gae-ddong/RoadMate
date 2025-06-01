@@ -1,7 +1,7 @@
 node_modules/
 .expo/
-*.log
-.vscode/
+dist/
+build/
 .DS_Store
 .env
-
+*.log
