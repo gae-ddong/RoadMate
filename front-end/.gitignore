@@ -1,7 +1,27 @@
+# 기본
 node_modules/
 .expo/
+.expo-shared/
+web-build/
 dist/
 build/
 .DS_Store
 .env
 *.log
+
+# 인증/보안
+*.keystore
+*.jks
+*.pem
+*.p12
+
+# 빌드 결과물
+*.apk
+*.ipa
+
+# 테스트
+coverage/
+
+# 에디터 환경
+.vscode/
+.idea/
